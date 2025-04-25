@@ -1,0 +1,18 @@
+h2{
+    color: rgb(155, 100, 192);
+}
+
+body{
+background-color: #c40b9c;
+color: aliceblue;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+}
+ header{
+
+    border-bottom: 1px solid rgb(207, 63, 63);
+ }
+ footer{
+
+    border-top: 1px solid rgb(253, 255, 129);
+ }
